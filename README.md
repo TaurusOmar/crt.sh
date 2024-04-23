@@ -13,7 +13,7 @@ This script automates the process of enumerating and scanning subdomains based o
 If you have Go installed and configured (i.e. with $GOPATH/bin in your $PATH):
 
 ```
-go install github.com/TaurusOmar/crt.sh@latest
+go install github.com/TaurusOmar/crt@latest
 ```
 
 ## Usage

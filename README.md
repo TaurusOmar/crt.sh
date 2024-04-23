@@ -19,7 +19,7 @@ go install github.com/TaurusOmar/crt.sh@latest
 ## Usage
 
 ```
-crt hackerone.com
+crt.sh hackerone.com
 ```
 
 ## Output

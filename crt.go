@@ -43,7 +43,7 @@ func main() {
 
 	domain := os.Args[1]
 	resultDir := "result_directory"
-	crtURL := fmt.Sprintf("https://crt.sh/?q=%%25.%s&output=json", domain)
+	crtURL := fmt.Sprintf("https://crt.sh/?q=%25.%s&output=json", domain)
 
 	fmt.Printf("Scanning for domain: %s...\n", domain)
 
